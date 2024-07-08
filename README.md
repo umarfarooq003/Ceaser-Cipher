@@ -52,7 +52,6 @@ Choose option 3.
 Code Overview
 
 1) Encrypt Function
-
 The encrypt function takes a shift value and a message as input, and returns the encrypted message. It shifts each letter by the specified shift value, wrapping around the alphabet if necessary.
 
 2) Decrypt Function

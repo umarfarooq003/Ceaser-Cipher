@@ -14,7 +14,7 @@ Running the Program
 git clone <repository_url>
 cd <repository_directory>
 
-2.Run the script using Python.
+2. Run the script using Python.
 python caesar_cipher.py
 Program Menu
 When you run the script, you will see a menu with the following options:
@@ -30,16 +30,16 @@ When you run the script, you will see a menu with the following options:
 Example Usage
 1. Encrypt a Message:
 Choose option 1.
-Enter the shift value (e.g., 3).
+Enter the shift value (e.g., 4).
 Enter the message to encrypt (e.g., Hello World).
-The program will output the encrypted message (e.g., Khoor Zruog).
+The program will output the encrypted message (e.g., Lipps Asvph ).
 
 ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/7358a36a-44f2-4fa8-8c1c-13f969ecbf0e)
 
 2. Decrypt a Message:
 Choose option 2.
-Enter the shift value used to encrypt the message (e.g., 3).
-Enter the encrypted message (e.g., Khoor Zruog).
+Enter the shift value used to encrypt the message (e.g., 4).
+Enter the encrypted message (e.g., Lipps Asvph).
 The program will output the decrypted message (e.g., Hello World).
 
 ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/3bf102ed-2151-428c-bbfa-1fafcbf80889)

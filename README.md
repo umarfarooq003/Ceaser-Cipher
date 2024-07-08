@@ -19,10 +19,13 @@ python caesar_cipher.py
 Program Menu
 When you run the script, you will see a menu with the following options:
 
-Encrypt: Encrypt a message.
-Decrypt: Decrypt a message.
-Exit: Exit the program.
+1) Encrypt: Encrypt a message.
 
+2) Decrypt: Decrypt a message.
+
+3) Exit: Exit the program.
+   
+   ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/c8e400e8-10ac-4451-a79a-ecbd1e5be1a4)
 
 Example Usage
 1. Encrypt a Message:
@@ -31,14 +34,20 @@ Enter the shift value (e.g., 3).
 Enter the message to encrypt (e.g., Hello World).
 The program will output the encrypted message (e.g., Khoor Zruog).
 
-3. Decrypt a Message:
+![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/7358a36a-44f2-4fa8-8c1c-13f969ecbf0e)
+
+2. Decrypt a Message:
 Choose option 2.
 Enter the shift value used to encrypt the message (e.g., 3).
 Enter the encrypted message (e.g., Khoor Zruog).
 The program will output the decrypted message (e.g., Hello World).
 
-4. Exit the Program:
+![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/3bf102ed-2151-428c-bbfa-1fafcbf80889)
+
+3. Exit the Program:
 Choose option 3.
+
+![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/aaa67c44-7365-4e45-8a79-3917b3c873c9)
 
 Code Overview
 Encrypt Function

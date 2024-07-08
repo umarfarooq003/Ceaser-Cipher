@@ -50,13 +50,15 @@ Choose option 3.
 ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/aaa67c44-7365-4e45-8a79-3917b3c873c9)
 
 Code Overview
-Encrypt Function
+
+1) Encrypt Function
+
 The encrypt function takes a shift value and a message as input, and returns the encrypted message. It shifts each letter by the specified shift value, wrapping around the alphabet if necessary.
 
-Decrypt Function
+2) Decrypt Function
 The decrypt function takes a shift value and an encrypted message as input, and returns the original message. It shifts each letter back by the specified shift value, wrapping around the alphabet if necessary.
 
-Main Program Loop
+3) Main Program Loop
 The main program loop presents a menu to the user, processes the user's choice, and calls the appropriate function (encrypt or decrypt) based on the choice.
 
 License

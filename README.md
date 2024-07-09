@@ -6,7 +6,7 @@ This project is a simple implementation of the Caesar Cipher, a type of substitu
 
 # How to Use  Prerequisites
 
-->Python 3.x installed on your system.
+`Python 3.x installed on your system.`
 
 # Running the Program
 
@@ -53,7 +53,7 @@ When you run the script, you will see a menu with the following options:
     ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/aaa67c44-7365-4e45-8a79-3917b3c873c9)
 
 # File
-- 'ceasr.py'
+- `ceasr.py`
   ```python
   # Function to encrypt the message
   def encrypt(shift, message):

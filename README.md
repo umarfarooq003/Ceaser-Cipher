@@ -1,14 +1,14 @@
-Caesar Cipher Project
+# Caesar Cipher Project
 
-Description
+# Description
 
 This project is a simple implementation of the Caesar Cipher, a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. The project includes functions to both encrypt and decrypt messages using a specified shift value.
 
-How to Use  Prerequisites
+# How to Use  Prerequisites
 
 ->Python 3.x installed on your system.
 
-Running the Program
+# Running the Program
 
 1. Clone the repository or download the script file.
 git clone <repository_url>
@@ -27,7 +27,7 @@ When you run the script, you will see a menu with the following options:
    
    ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/c8e400e8-10ac-4451-a79a-ecbd1e5be1a4)
 
-Example Usage
+# Example Usage
 1. Encrypt a Message:
    
    Choose option 1.
@@ -52,7 +52,7 @@ Example Usage
 
 ![image](https://github.com/umarfarooq003/PRODIGY-CS-1/assets/174965538/aaa67c44-7365-4e45-8a79-3917b3c873c9)
 
-Code Overview
+# Code Overview
 
 1) Encrypt Function
 The encrypt function takes a shift value and a message as input, and returns the encrypted message. It shifts each letter by the specified shift value, wrapping around the alphabet if necessary.

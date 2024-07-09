@@ -63,8 +63,8 @@ The decrypt function takes a shift value and an encrypted message as input, and 
 3) Main Program Loop
 The main program loop presents a menu to the user, processes the user's choice, and calls the appropriate function (encrypt or decrypt) based on the choice.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+# Acknowledgments
 This project is inspired by the classic Caesar Cipher encryption technique.
